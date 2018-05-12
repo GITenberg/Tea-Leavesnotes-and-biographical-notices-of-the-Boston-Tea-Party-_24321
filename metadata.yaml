@@ -1,0 +1,35 @@
+_repo: Tea-Leavesnotes-and-biographical-notices-of-the-Boston-Tea-Party-_24321
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24321-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Drake, Francis S. (Francis Samuel)
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '26400'
+    url: http://www.gutenberg.org/2009/agents/26400
+description: ''
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston Tea Party, 1773'
+- !lcc 'E201'
+- !lcsh 'Tea tax (American colonies)'
+title: 'Tea Leaves
+
+  Being a Collection of Letters and Documents relating to
+
+  the shipment of Tea to the American Colonies in the year
+
+  1773, by the East India Tea Company. (With an introduction,
+
+  notes, and biographical notices of the Boston Tea Party)'
+url: http://www.gutenberg.org/ebooks/24321
